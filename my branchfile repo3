@@ -1,0 +1,5 @@
+public class Repo3
+{
+static int f = 40;
+int g = 50;
+}
